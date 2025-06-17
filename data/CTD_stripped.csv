@@ -1,0 +1,40 @@
+GeneSymbol,GeneID,DiseaseName,DiseaseID,DirectEvidence,OmimIDs,PubMedIDs
+A,50518,Dermatitis,MESH:D003872,marker/mechanism,,32937126
+A,50518,Diabetes Mellitus,MESH:D003920,marker/mechanism,,1473152
+A,50518,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,8146154
+A,50518,Diabetic Nephropathies,MESH:D003928,marker/mechanism,,37769864
+A,50518,Edema,MESH:D004487,marker/mechanism,,32937126
+A,50518,Failure to Thrive,MESH:D005183,marker/mechanism,,32937126
+A,50518,Fibrosis,MESH:D005355,marker/mechanism,,37769864
+A,50518,Furunculosis,MESH:D005667,marker/mechanism,,32937126
+A,50518,Hepatic Veno-Occlusive Disease,MESH:D006504,marker/mechanism,,32937126
+A,50518,Hyperglycemia,MESH:D006943,marker/mechanism,,37769864
+A,50518,Hyperplasia,MESH:D006965,marker/mechanism,,32937126
+A,50518,Keratosis,MESH:D007642,marker/mechanism,,32937126
+A,50518,Liver Neoplasms,MESH:D008113,marker/mechanism,,15175105
+A,50518,Neoplasms,MESH:D009369,marker/mechanism,,1473152
+A,50518,Obesity,MESH:D009765,marker/mechanism,,1473152|25447408|25448685|32937126|8146154
+A,50518,Pigmentation Disorders,MESH:D010859,marker/mechanism,,32937126|8146154
+A,50518,Prenatal Exposure Delayed Effects,MESH:D011297,marker/mechanism,,32937126
+A,50518,Weight Gain,MESH:D015430,marker/mechanism,,37769864
+A2M,2,Acute Kidney Injury,MESH:D058186,marker/mechanism,,23052191
+A2M,2,"Adenoma, Liver Cell",MESH:D018248,marker/mechanism,,15509519
+A2M,2,Alzheimer Disease,MESH:D000544,marker/mechanism,,15023809|9697696|9811940
+A2M,2,"Carcinoma, Hepatocellular",MESH:D006528,marker/mechanism,,15509519
+A2M,2,Colonic Neoplasms,MESH:D003110,marker/mechanism,,15059925
+A2M,2,Hepatolenticular Degeneration,MESH:D006527,marker/mechanism,,23519153
+A2M,2,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26396155
+A2M,2,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+A2M,2,Lung Diseases,MESH:D008171,marker/mechanism,,2475424
+A2M,2,Lung Neoplasms,MESH:D008175,marker/mechanism,,17902193|19180532
+A2M,2,Nephrotic Syndrome,MESH:D009404,marker/mechanism,,11304663
+ABAT,18,Autistic Disorder,MESH:D001321,marker/mechanism,,15830322
+ABAT,18,Gamma aminobutyric acid transaminase deficiency,MESH:C535407,marker/mechanism,613163,10407778
+ABAT,18,Gastroesophageal Reflux,MESH:D005764,marker/mechanism,,21552517
+ABAT,18,Genetic Predisposition to Disease,MESH:D020022,marker/mechanism,,21552517
+ABAT,18,Lethargy,MESH:D053609,marker/mechanism,,10407778
+ABAT,18,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ABAT,18,Muscle Hypotonia,MESH:D009123,marker/mechanism,,10407778
+ABAT,18,Psychomotor Disorders,MESH:D011596,marker/mechanism,,10407778
+ABAT,18,"Reflex, Abnormal",MESH:D012021,marker/mechanism,,10407778
+ABAT,18,Seizures,MESH:D012640,marker/mechanism,,10407778
