@@ -1,0 +1,16 @@
+[package]
+name = "GeneNet"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+polars = { version = "0.48", default-features = false, features = ["csv", "fmt"] }
+dotenv = "0.15.0"
+eframe = { version = "0.31", features = ["glow"] }
+egui_extras = "0.31"
+egui_plot = "0.31"
+rfd = "0.15"
+poll-promise = "0.3"
+lazy_static = "1.5.0"
